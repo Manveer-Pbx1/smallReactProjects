@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Know about the project!
 <img src = "smallReactProjectLandingPage.png">
+
+# Stuff about Create-React-App 😴
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
